@@ -1,0 +1,16 @@
+{
+    "pickles": [
+        {
+            "id": 1, 
+            "brand": "Vlasic",
+            "type": "spears",
+            "flavor": "dill"
+        }, 
+        {
+            "id": 2, 
+            "brand": "Old Milwaukee",
+            "type": "spears", 
+            "flavor": "bread and butter"
+        }
+    ]
+}

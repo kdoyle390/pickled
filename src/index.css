@@ -1,13 +1,24 @@
+/* font-family: 'Dongle', sans-serif;
+font-family: 'Gluten', cursive;
+font-family: 'Libre Barcode EAN13 Text', cursive;
+font-family: 'Rampart One', cursive; */
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #31572C;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+#header {
+  font-family: 'Gluten';
+  color: white;
+}
+
+#footer {
+  background-color: #90A955;
+  height: 100px;
+}
+
+.App-header {
+  background-color: #31572C;
 }
